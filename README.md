@@ -10,3 +10,5 @@ This notebook walks through core neural network fundamentals from scratch, inclu
 - softmax activation and categorical cross-entropy loss
 - implementing loss calculation
 - introducing optimization and derivatives
+
+- Reference (https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
